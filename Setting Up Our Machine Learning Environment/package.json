@@ -1,0 +1,17 @@
+{
+  "name": "hands_on_machine_learning_using_javascript",
+  "version": "1.0.0",
+  "description": "Hands-On Machine Learning using JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.8.2",
+    "csvtojson": "^2.0.10",
+    "ml-regression": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic Myers <annoyingmouse@gmail.com>",
+  "license": "ISC"
+}
